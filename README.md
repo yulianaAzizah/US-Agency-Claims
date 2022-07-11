@@ -16,6 +16,7 @@ Pada project ini akan dilakukan analisis terhadap permasalahan tingginya angka k
   - Data Cleaning : pandas
   - Data Analysis : pandas, sciPy
   - Visualization : matplotlib, seaborn
+- Tableau 
 
 ## REPOSITORY ORGANIZATION
 
@@ -24,4 +25,4 @@ Pada project ini akan dilakukan analisis terhadap permasalahan tingginya angka k
 | ClaimAnalysis.ipynb  | Deskripsi database, penanganan missing value dan outlier, analisis statistik
 | TSAClaims.xlsx | Data final atau data yang sudah bersih
 
-
+Dashboard hasil analisis dapat dilihat [di sini](https://public.tableau.com/views/TSA_Claim/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
