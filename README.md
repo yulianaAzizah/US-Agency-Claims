@@ -2,14 +2,14 @@
 ---
 
 ## OVERVIEW
-_Transportation Security Administration_ (TSA), merupakan bagian dari sistem keamanan bandara di Amerika. TSA dirancang untuk menjaga keamanan bandara komersil dan bagasi di seluruh wilayah Amerika. TSA menetapkan standar tinggi soal keamanan. Seluruh penumpang akan diperiksa oleh agen TSA sebelum mereka melanjutkan perjalanan.
+Transportation Security Administration (TSA) is part of the airport security system in America. TSA is designed to keep commercial airports and baggage secure throughout the America. TSA set high standards of the security. All passengers will be screened by a TSA agent before they continue their journey
 
-Setelah pemeriksaan, apabila terjadi kerusakan dan atau kehilangan, penumpang dapat mengajukan claim untuk penggantian kerusakan dan kehilangan tersebut. Semenjak TSA terbentuk dan sistem mulai berjalah, dari tahun 2002 claim yang diajukan sangatlah tinggi dari tahun ke tahun hingga data yang akan di analisis saat ini yaitu tahun 2015. Claim yang diajukan pun berbagai macam, mulai dari kehilangan barang setelah pengecekan, kerusakan bagasi, dan berbagai macam permasalahan lainnya.
+In case of damage and or loss occurs after inspection process, the passenger can submit a claim for compensation for the damage and loss. Since the TSA was formed and the system started running, from 2002 the claims submitted were very high from year to year until the data to be analyzed at this time, 2015. Claims that have been submitted are various kinds, loss of goods after checking, baggage damage, and various other problems.
 
 ## POINT OF ANALYSIS
-Angka claim tinggi yang diajukan oleh penumpang ke pihak TSA menjadi _concern_ pihak TSA. TSA harus segera melakukan tindakan untuk memecahkan masalah tersebut. TSA dapat melakukan berbagai macam improvement untuk dapat menekan angka permasalahan claim tersebut. Tinggi nya claim yang diajukan sangat berdampak pada biaya yang harus dikeluarkan oleh TSA untuk melakukan ganti rugi. Dalam kondisi ini, TSA tidak mengetahui titik masalah terjadinya claim yang tinggi. Sedangkan improvement yang akan dilakukan harus tepat sasaran sehingga dapat berdampak signifikan.
+The high number of claims submitted by passengers to be a concern for the TSA. TSA must take immediate action to resolve the issue. TSA can carry out various kinds of improvements to be able to reduce the number of problem claims. The high number of claims submitted has a big impact on the costs that must be incurred by the TSA to make compensation. In this condition, TSA doesn't know the problem points of high claims. However the improvements to be made must be right on target so that they can have a significant impact.
 
-Pada project ini akan dilakukan analisis terhadap permasalahan tingginya angka klaim tersebut. Hasil dari analisis ini dapat digunakan sebagai dasar TSA untuk melakukan improvement dan dapat menurunkan angka klaim yang diajukan oleh penumpang.
+This project analyzes the problem of the high number of claims. The results of this analysis can be used as a basis for the TSA to carry out improvements so it can reduce the number of claims submitted by passengers.
 
 ## TOOLS
 - Python :
@@ -20,9 +20,9 @@ Pada project ini akan dilakukan analisis terhadap permasalahan tingginya angka k
 
 ## REPOSITORY ORGANIZATION
 
-| Nama | Deskripsi 
+| Name | Description 
 |---|---|
-| ClaimAnalysis.ipynb  | Deskripsi database, penanganan missing value dan outlier, analisis statistik
-| TSAClaims.xlsx | Data final atau data yang sudah bersih
+| ClaimAnalysis.ipynb  | Database Description, Missing value dan Outlier Handling, Statistic Analysis
+| TSAClaims.xlsx | Fixed Data
 
-Dashboard hasil analisis dapat dilihat [di sini](https://public.tableau.com/views/TSA_Claim/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+The Analysis Result Dashboard can be accessed on [here](https://public.tableau.com/views/TSA_Claim/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
